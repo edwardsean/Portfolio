@@ -4,8 +4,8 @@ import type { Configuration } from "webpack";
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   output: "export",
-  basePath: "/Portfolio",
-  assetPrefix: "/Portfolio/",
+  basePath: "",
+  assetPrefix: "",
   experimental: {
     optimizePackageImports: ["@heroicons/react"],
   },
