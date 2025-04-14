@@ -1,4 +1,3 @@
-// app/archive/page.tsx
 "use client";
 
 import { useState, useMemo } from "react";
@@ -111,11 +110,11 @@ const initialFiles: FileItem[] = [
             name: "CSC-1003 (Introduction to Computer Science and Java Programming)",
             type: "folder",
             path: "/CUHK/YEAR-1/CSC-1003 (Introduction to Computer Science and Java Programming)",
-            children: [
-                {
-                    
-                },
-            ],
+            // children: [
+            //     {
+
+            //     },
+            // ],
           },
         ],
       },
