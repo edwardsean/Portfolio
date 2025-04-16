@@ -30,7 +30,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center gap-12 p-8 bg-gray-800/30 rounded-3xl border border-gray-700/50 backdrop-blur-lg hover:border-emerald-400/30 transition-all duration-300">
             <div className="relative w-64 h-64 rounded-full overflow-hidden border-4 border-emerald-400/20 hover:border-emerald-400/40 transition-all group">
               <Image
-                src="/images/edward-photo.jpeg"
+                src="/Portfolio/images/edward-photo.jpeg"
                 alt="Edward Alexander Profile Picture"
                 width={256}
                 height={256}
