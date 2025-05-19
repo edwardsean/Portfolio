@@ -12,6 +12,7 @@ const nextConfig: NextConfig = {
   },
   images: {
     unoptimized: true,
+    path: "/Portfolio/_next/image",
     remotePatterns: [
       {
         protocol: "https",

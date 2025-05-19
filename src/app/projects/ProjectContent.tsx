@@ -19,7 +19,7 @@ const projects: Project[] = [
       "A website made for couples to play with. Includes a world map itinerary connected with a gallery page, a time dependent diary, and a 'Guess The Picture' game.",
     url: "https://coupleswebsite.vercel.app/menu",
     github: "https://github.com/edwardsean/Couple-s-Website",
-    image: "/images/Couple-Website.png",
+    image: "/Portfolio/images/Couple-Website.png",
     tech: ["HTML", "CSS", "JavaScript", "Node.js", "PostgreSQL"],
   },
   {
@@ -28,7 +28,7 @@ const projects: Project[] = [
       "Extended the QTRVSim RISC-V simulator to support RISC-V Vector Extension (RVV) instructions, including vsetvl, vadd.vv, vlw.v, and vsw.v.",
     url: "https://github.com/edwardsean/QTRVSIM-vector-extension",
     github: "https://github.com/edwardsean/QTRVSIM-vector-extension",
-    image: "/images/QTRVSIM.png",
+    image: "/Portfolio/images/QTRVSIM.png",
     tech: ["C++", "RISC-V", "Qt-6"],
   },
   {
@@ -39,14 +39,14 @@ const projects: Project[] = [
     url: "https://github.com/edwardsean/Handwritten-Digit-Recognition-using-Random-Forest-and-K-Nearest-Neighbors.",
     github:
       "https://github.com/edwardsean/Handwritten-Digit-Recognition-using-Random-Forest-and-K-Nearest-Neighbors.",
-    image: "/images/K-Nearest.png",
+    image: "/Portfolio/images/K-Nearest.png",
     tech: ["C++", "OpenCV"],
   },
   {
     title: "Handwritten Equation Calculator",
     description:
       "A project that leverages TensorFlow to build a neural network capable of analyzing and solving handwritten equations.",
-    image: "/images/Coming-Soon-Background.avif",
+    image: "/Portfolio/images/Coming-Soon-Background.avif",
     tech: [
       "Swift",
       "TensorFlow/Keras/Pytorch",
